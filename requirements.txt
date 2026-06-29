@@ -1,0 +1,10 @@
+streamlit>=1.40.0
+pandas==2.2.2
+numpy==1.26.4
+plotly==5.22.0
+sqlalchemy==2.0.30
+pymysql==1.1.1
+scikit-learn==1.5.0
+google-generativeai==0.7.2
+python-dotenv==1.0.1
+cryptography==42.0.8
